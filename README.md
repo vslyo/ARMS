@@ -1,2 +1,2 @@
-# ARMS
-Automated Road quality Monitoring Systems
+# ARQM
+Automated Road Quality Monitoring systems
